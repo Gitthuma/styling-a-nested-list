@@ -6,3 +6,5 @@ In this active learning session, we want you to take what you've learned above a
 2. Give the unordered list items and the ordered list items a line-height of 1.5 of their font-size.
 3. Give the ordered list lower alphabetical bullets.
 4. Feel free to play with the list example as much as you like, experimenting with bullet types, spacing, or whatever else you can find.
+
+Live web: https://gitthuma.github.io/styling-a-nested-list/
